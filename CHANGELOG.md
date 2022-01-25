@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/googleapis/python-notebooks/compare/v1.1.1...v1.2.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#125](https://github.com/googleapis/python-notebooks/issues/125)) ([72925ba](https://github.com/googleapis/python-notebooks/commit/72925babe34fb97639336e443b2ee588d6727680))
+
 ### [1.1.1](https://www.github.com/googleapis/python-notebooks/compare/v1.1.0...v1.1.1) (2021-11-01)
 
 
